@@ -13,7 +13,6 @@
   ![Leo's github stats](https://github-readme-stats.vercel.app/api?username=hanlinthedev&show_icons=true&theme=dracula&hide=stars,issues)
 
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hanlinthedev&locale=en&hide_title=false&layout=compact&card_width=429&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
