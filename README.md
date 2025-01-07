@@ -3,14 +3,14 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=HanlinTheDEVELOPER.HanlinTheDEVELOPER&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=hanlinthedev.hanlinthedev&"  />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=HanlinTheDEVELOPER&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HanlinTheDEVELOPER&locale=en&hide_title=false&layout=compact&card_width=429&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=hanlinthedev&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hanlinthedev&locale=en&hide_title=false&layout=compact&card_width=429&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
